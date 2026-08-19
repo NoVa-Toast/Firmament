@@ -8,7 +8,7 @@ SPDX-License-Identifier: CC0-1.0
 
 <div align="center">
 
-# Firmament
+# Firmamenta
 
 ![firmament logo](./docs/firmament_logo_256_nobg.webp)
 
